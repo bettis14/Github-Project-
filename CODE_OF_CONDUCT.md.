@@ -1,0 +1,4 @@
+ CODE_OF_CONDUCT.md.
+ o make your code of conduct visible in the repository's root directory, type CODE_OF_CONDUCT in the file name field.
+To make your code of conduct visible in the repository's docs directory, type docs/CODE_OF_CONDUCT.
+To make your code of conduct visible in the repository's .github directory, type .github/CODE_OF_CONDUCT.
